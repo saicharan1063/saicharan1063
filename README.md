@@ -1,16 +1,26 @@
-### Hi there 👋
+# Sai Charan Gunda
 
-<!--
-**saicharan1063/saicharan1063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! Welcome to my GitHub profile. I'm Sai Charan Gunda, a student at Kakatiya Institute of Technology and Science pursuing a degree in Computer Science and Engineering. Currently exploring the realms of new technologies, particularly interested in AI.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student at Kakatiya Institute of Technology and Science, pursuing a degree in Computer Science and Engineering with a strong passion for exploring new technologies, especially in the field of Artificial Intelligence. I love delving into Python, Java, C, C++, and SQL, constantly honing my skills to build innovative solutions.
+
+## Contact Me
+
+📧 Feel free to reach out to me via email: gundasaicharan14322@gmail.com
+
+## Skills
+
+- Python
+- Java
+- C
+- C++
+- SQL
+
+## Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- New Technologies
