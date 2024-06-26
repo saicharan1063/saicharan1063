@@ -21,6 +21,7 @@ I'm a student at Kakatiya Institute of Technology and Science, pursuing a degree
 ## Interests
 
 - Artificial Intelligence
+- MERN Stack
 - Machine Learning
 - Data Science
 - New Technologies
