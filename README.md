@@ -4,11 +4,7 @@
 
 ## About Me
 
-I'm a student at Kakatiya Institute of Technology and Science, pursuing a degree in Computer Science and Engineering with a strong passion for exploring new technologies, especially in the field of Artificial Intelligence. I love delving into Python, Java, C, C++, and SQL, constantly honing my skills to build innovative solutions.
-
-## Contact Me
-
-📧 Feel free to reach out to me via email: gundasaicharan14322@gmail.com
+I'm a student at Kakatiya Institute of Technology and Science, pursuing a degree in Computer Science and Engineering with a strong passion for exploring new technologies, especially in the field of Artificial Intelligence. I love delving into Python, Java, C, C++, SQL, and React.js, constantly honing my skills to build innovative solutions.
 
 ## Skills
 
@@ -17,6 +13,7 @@ I'm a student at Kakatiya Institute of Technology and Science, pursuing a degree
 - C
 - C++
 - SQL
+- React.js
 
 ## Interests
 
@@ -25,3 +22,13 @@ I'm a student at Kakatiya Institute of Technology and Science, pursuing a degree
 - Machine Learning
 - Data Science
 - New Technologies
+
+## Contact Me
+
+📧 Feel free to reach out to me via email: gundasaicharan14322@gmail.com
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/gunda-saicharan/)
+
+---
+
+Feel free to explore my repositories and projects! Let's connect and collaborate on exciting innovations.
